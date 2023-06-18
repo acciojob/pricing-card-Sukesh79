@@ -1,4 +1,14 @@
 /*  your css code here. If applicable */
 .container{
-	padding : 
+	padding : 30px;
+	width : 300px;
+	height : 200px;
+	align-content : center;
+	
+}
+h1{
+	text-align : center;
+}
+h2{
+	text-align : center;
 }
